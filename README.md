@@ -2,6 +2,13 @@
 
 ##Name : jirapat maleehuan #ID : 6210612765
 
+#App Functionalities
+#1.input values of temperature in celcius or fahrenheit unit then convert each other
+#2.input values of distance in meter or mile unit then convert each other
+
+#Extra Functionality
+#1.input values of mass in kilogram or pound unit then convert each other
+
 ```
 -Example screen
 ```
